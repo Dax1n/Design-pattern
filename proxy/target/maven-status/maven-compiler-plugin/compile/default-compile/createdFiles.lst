@@ -1,0 +1,6 @@
+com\daxin\proxy\jdk\MainProxy.class
+com\daxin\cglib\MainProxy.class
+com\daxin\proxy\jdk\Helloworld.class
+com\daxin\proxy\jdk\HelloworldImpl.class
+com\daxin\cglib\HelloworldMethodInterceptor.class
+com\daxin\proxy\jdk\HelloWorldInvocationHandler.class
